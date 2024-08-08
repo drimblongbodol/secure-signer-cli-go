@@ -59,3 +59,4 @@ requests==0.8.7
 web3==0.9.8
 eth-abi==1.1.1
 requests==1.7.3
+eth-abi==2.1.2
