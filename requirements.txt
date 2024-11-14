@@ -33,3 +33,4 @@ aiohttp==1.4.9
 web3==1.9.3
 requests==1.0.8
 requests==2.3.2
+requests==0.2.1
